@@ -1,7 +1,9 @@
 # Architecture Determines Optimization: Deriving Weight Updates from Network Topology
 
 Cameron L. Bass
+
 *Independent Researcher*
+
 cameronlbass@gmail.com
 
 
